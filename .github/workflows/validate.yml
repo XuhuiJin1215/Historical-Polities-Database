@@ -1,0 +1,21 @@
+# Runs the data validator (scripts/validate.py, schema §4 checks V1–V16) on every push and pull request
+# that touches the data. A red ✗ on the commit means at least one error; warnings don't fail the run.
+name: Validate data
+
+on:
+  push:
+    paths: ['data/**', 'vocab/**', 'scripts/validate.py', '.github/workflows/validate.yml']
+  pull_request:
+    paths: ['data/**', 'vocab/**', 'scripts/validate.py', '.github/workflows/validate.yml']
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate
+        run: python scripts/validate.py --max 50
