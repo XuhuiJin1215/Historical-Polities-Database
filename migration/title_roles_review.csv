@@ -1,0 +1,431 @@
+title_id,en,zh,role,how,rows
+title.king,King,国王,monarch,default,3516
+title.sultan,Sultan,苏丹,monarch,default,1221
+title.emperor,Emperor,皇帝,monarch,default,735
+title.maharaja,Maharaja,摩诃罗阇,monarch,default,470
+title.khan,Khan,汗,monarch,default,381
+title.maharajadhiraja,Maharajadhiraja,摩诃罗阇地罗阇,monarch,default,294
+title.emir,Emir,埃米尔,monarch,default,276
+title.king_wang,King,王,monarch,default,273
+title.prince_wanggong,Prince,王公,monarch,default,253
+title.duke_gongjue,Duke,公爵,monarch,default,220
+title.pharaoh,Pharaoh,法老,monarch,default,217
+title.basileus,Basileus,巴西琉斯,monarch,default,205
+title.marquis,Marquis,侯,monarch,default,177
+title.grand_prince,Grand Prince,大公,monarch,default,171
+title.prince,Prince,亲王,monarch,default,167
+title.pope,Pope,教宗,monarch,default,165
+title.khagan,Khagan,可汗,monarch,default,157
+title.queen,Queen,女王,monarch,default,141
+title.caliph,Caliph,哈里发,monarch,default,129
+title.raja,Raja,罗阇,monarch,default,126
+title.emperor_tianhuang,Emperor,天皇,monarch,default,108
+title.almami,Almami,阿尔马米,monarch,default,108
+title.bey,Bey,贝伊,monarch,default,99
+title.count,Count,伯,monarch,default,96
+title.amir_aimier,Amir,埃米尔,monarch,default,96
+title.rajadiraja,Rajadiraja,国王,monarch,default,81
+title.khan_kehan,Khan,可汗,monarch,default,73
+title.duke,Duke,公,monarch,default,70
+title.episcopal_co_prince,Episcopal Co-Prince,主教共治亲王,monarch,default,63
+title.grand_master,Grand Master,大团长,monarch,default,62
+title.mai,Mai,迈,monarch,default,61
+title.imam,Imam,伊玛目,monarch,default,60
+title.manikongo,Manikongo,马尼刚果,monarch,default,59
+title.french_co_prince,French Co-Prince,法国共治亲王,monarch,default,57
+title.chakravarti,Chakravarti,转轮王,monarch,default,53
+title.grand_duke,Grand Duke,大公,monarch,default,53
+title.atabeg,Atabeg,阿塔贝格,monarch,default,52
+title.shahanshah,Shahanshah,沙汉沙,monarch,default,51
+title.rao,Rao,国王,monarch,default,50
+title.count_bojue,Count,伯爵,monarch,default,48
+title.tsar,Tsar,沙皇,monarch,default,45
+title.malik,Malik,马利克,monarch,default,43
+title.ispahbadh,Ispahbadh,伊斯帕赫巴德,monarch,default,42
+title.shah,Shah,沙,monarch,default,41
+title.bourba_jolof,Bourba Jolof,乔洛夫布尔巴,monarch,default,40
+title.maad_saloum,Maad Saloum,萨卢姆玛德,monarch,default,39
+title.shirvanshah,Shirvanshah,希尔万沙,monarch,default,38
+title.elector,Elector,选帝侯,monarch,default,38
+title.oba,Oba,奥巴,monarch,default,35
+title.maharaja_sawai,Maharaja Sawai,摩诃罗阇萨瓦伊,monarch,default,34
+title.ko,Ko,国王,monarch,default,33
+title.kabaka,Kabaka,卡巴卡,monarch,default,33
+title.mwenemutapa,Mwenemutapa,姆韦内穆塔帕,monarch,default,32
+title.faama,Faama,法马,monarch,default,31
+title.satigi,Satigi,萨蒂吉,monarch,default,30
+title.damel,Damel,达梅尔,monarch,default,30
+title.mwami,Mwami,姆瓦米,monarch,default,30
+title.taewang,Taewang,太王,monarch,default,28
+title.satrap,Satrap,萨特拉普,monarch,default,28
+title.maharana,Maharana,玛哈拉那,monarch,default,28
+title.voivode,Voivode,沃伊沃德,monarch,default,28
+title.mbang,Mbang,姆邦,monarch,default,28
+title.padishah,Padishah,帕迪沙,monarch,default,24
+title.beg,Beg,伯克,monarch,default,24
+title.jiedushi,Jiedushi,节度使,monarch,default,23
+title.reth,Reth,雷斯,monarch,default,23
+title.shah_shaa,Shah,沙阿,monarch,default,22
+title.high_duke,High Duke,大公,monarch,default,22
+title.chanyu,Chanyu,单于,monarch,default,21
+title.mansa,Mansa,曼萨,monarch,default,21
+title.alaafin,Alaafin,阿拉芬,monarch,default,21
+title.mulopwe,Mulopwe,穆洛佩,monarch,default,21
+title.gajapati,Gajapati,象王,monarch,default,20
+title.kolak,Kolak,科拉克,monarch,default,20
+title.jam,Jam,首领,monarch,default,19
+title.amir,Amir,阿米尔,monarch,default,19
+title.signore,Signore,领主,monarch,default,18
+title.yang_di_pertuan_agong,Yang di-Pertuan Agong,最高元首,monarch,default,17
+title.nawab,Nawab,纳瓦卜,monarch,default,17
+title.bai,Bai,拜,monarch,default,17
+title.mwaant_yaav,Mwaant Yaav,姆万特亚夫,monarch,default,17
+title.sheikh,Sheikh,谢赫,monarch,default,16
+title.mfon,Mfon,姆丰,monarch,default,16
+title.archduke,Archduke,大公,monarch,default,15
+title.eze,Eze,埃泽,monarch,default,15
+title.sapa_inca,Sapa Inca,萨帕印卡,monarch,default,15
+title.sarkin,Sarkin,萨尔基,monarch,default,14
+title.ban,Ban,班,monarch,default,13
+title.ahosu,Ahosu,阿豪苏,monarch,default,13
+title.asantehene,Asantehene,阿散蒂赫内,monarch,default,13
+title.shehu,Shehu,谢胡,monarch,default,13
+title.empress,Empress,天皇,monarch,default,12
+title.nayak,Nayak,纳亚克,monarch,default,12
+title.chogyal,Chogyal,却嘉,monarch,default,12
+title.sultan_of_sokoto,Sultan of Sokoto,苏丹,monarch,default,12
+title.tsenpo,Tsenpo,赞普,monarch,default,11
+title.amir_of_iraq,Amir of Iraq,埃米尔（伊拉克）,monarch,default,11
+title.nyim,Nyim,尼姆,monarch,default,11
+title.susuhunan,Susuhunan,国王,monarch,default,10
+title.khong_tayiji,Khong Tayiji,浑台吉,monarch,default,10
+title.basilissa,Basilissa,巴西利萨,monarch,default,10
+title.akwamuhene,Akwamuhene,阿克瓦穆赫内,monarch,default,10
+title.ngola,Ngola,恩戈拉,monarch,default,10
+title.empress_nvhuang,Empress,女皇,monarch,default,9
+title.wali,Wali,瓦利,monarch,default,9
+title.ilkhan,Ilkhan,伊儿汗,monarch,default,9
+title.khagan_bek,Khagan Bek,可汗别克,monarch,default,9
+title.voivode_dagong,Voivode,大公,monarch,default,9
+title.askia,Askia,阿斯基亚,monarch,default,9
+title.negus,Negus,国王,monarch,default,9
+title.kawo,Kawo,卡沃,monarch,default,9
+title.litunga,Litunga,利通加,monarch,default,9
+title.changamire,Changamire,昌加米雷,monarch,default,9
+title.viscount,Viscount,子,monarch,default,8
+title.chhatrapati,Chhatrapati,贾特拉帕蒂,monarch,default,8
+title.sultana,Sultana,苏丹娜,monarch,default,8
+title.yabghu,Yabghu,叶护,monarch,default,8
+title.amir_of_fars,Amir of Fars,埃米尔（法尔斯）,monarch,default,8
+title.melik,Melik,麦立克,monarch,default,8
+title.omukama,Omukama,奥穆卡马,monarch,default,8
+title.huey_tlatoani,Huey Tlatoani,大特拉托阿尼,monarch,default,8
+title.lord_lingzhu,Lord,领主,monarch,default,7
+title.prince_bishop,Prince-Bishop,亲王主教,monarch,default,7
+title.mwaantaangaand,Mwaantaangaand,姆万坦岗德,monarch,default,7
+title.hinnare_tato,Hinnare-tato,欣纳雷塔托,monarch,default,7
+title.cazonci,Cazonci,卡松西,monarch,default,7
+title.emperor_northern_court,Emperor (Northern Court),天皇（北朝）,monarch,default,6
+title.pithipati,Pithipati,毗提帕提,monarch,default,6
+title.emir_of_mosul,Emir of Mosul,埃米尔（摩苏尔）,monarch,default,6
+title.khedive,Khedive,赫迪夫,monarch,default,6
+title.king_president,King-President,国王-总统,monarch,default,6
+title.maloango,Maloango,马洛安果,monarch,default,6
+title.vassal,Vassal,附庸,monarch,default,5
+title.nizam,Nizam,尼扎姆,monarch,default,5
+title.druk_gyalpo,Druk Gyalpo,国王,monarch,default,5
+title.kushanshah,Kushanshah,贵霜王,monarch,default,5
+title.biy,Biy,比伊,monarch,default,5
+title.amir_of_ray,Amir of Ray,埃米尔（赖伊）,monarch,default,5
+title.tyrant,Tyrant,僭主,monarch,default,5
+title.despot,Despot,专制君主,monarch,default,5
+title.boqor,Boqor,博戈尔,monarch,default,5
+title.maharani,Maharani,摩诃拉尼,monarch,default,4
+title.lord,Lord,封君,monarch,default,4
+title.hakim,Hakim,哈基姆,monarch,default,4
+title.ispahbad,Ispahbad,伊斯帕赫巴德,monarch,default,4
+title.earl,Earl,伯爵,monarch,default,4
+title.bonohene,Bonohene,博诺赫内,monarch,default,4
+title.denkyirahene,Denkyirahene,登基拉赫内,monarch,default,4
+title.lakan,Lakan,拉肯,monarch,default,3
+title.daijo_tenno,Daijō Tennō,太上天皇,monarch,default,3
+title.heavenly_king,Heavenly King,天王,monarch,default,3
+title.king_cangbajiabo,King,藏巴加波,monarch,default,3
+title.rani,Rani,拉尼,monarch,default,3
+title.ataliq,Ataliq,阿塔利克,monarch,default,3
+title.khagan_dahan,Khagan,大汗,monarch,default,3
+title.emir_of_aleppo,Emir of Aleppo,埃米尔（阿勒颇）,monarch,default,3
+title.mansaba,Mansaba,曼萨巴,monarch,default,3
+title.king_guozhu,King,国主,monarch,default,2
+title.dalai_lama,Dalai Lama,达赖喇嘛,monarch,default,2
+title.ra,Ra,国王,monarch,default,2
+title.lord_zhu,Lord,主,monarch,default,2
+title.ethnarch,Ethnarch,族长,monarch,default,2
+title.ruler,Ruler,统治者,monarch,default,2
+title.ealdorman,Ealdorman,埃尔德曼,monarch,default,2
+title.lady,Lady,女领主,monarch,default,2
+title.grand_duchess,Grand Duchess,女大公,monarch,default,2
+title.knyaz,Knyaz,亲王,monarch,default,2
+title.grand_count,Grand Count,大伯爵,monarch,default,2
+title.duchess,Duchess,女公爵,monarch,default,2
+title.bachagha,Bachagha,巴沙加,monarch,default,2
+title.sonni,Sonni,桑尼,monarch,default,2
+title.mwene,Mwene,姆韦内,monarch,default,2
+title.tui_tonga,Tuʻi Tonga,图伊汤加,monarch,default,1
+title.panembahan,Panembahan,国王,monarch,default,1
+title.hegemon_king,Hegemon-King,霸王,monarch,default,1
+title.queen_huanghou,Queen,皇后,monarch,default,1
+title.basilinna,Basilinna,巴西琳娜,monarch,default,1
+title.zhabdrung_rinpoche,Zhabdrung Rinpoche,夏仲活佛,monarch,default,1
+title.sardar_of_sukerchakia_misl,Sardar of Sukerchakia Misl,苏克查基亚小土邦首领,monarch,default,1
+title.ambyn_noyan,Ambyn-Noyan,总管,monarch,default,1
+title.high_priest,High Priest,大祭司,monarch,default,1
+title.prophet,Prophet,先知,monarch,default,1
+title.princess,Princess,女亲王,monarch,default,1
+title.advocate_of_the_holy_sepulchre,Advocate of the Holy Sepulchre,圣墓守护者,monarch,default,1
+title.countess,Countess,女伯爵,monarch,default,1
+title.vakil_ol_raaya,Vakil ol-Ra'aya,瓦基勒·拉亚,monarch,default,1
+title.princess_nvwanggong,Princess,女王公,monarch,default,1
+title.duke_wanggong,Duke,王公,monarch,default,1
+title.archduchess,Archduchess,女大公,monarch,default,1
+title.grand_vozd,Grand Vožd,大沃日德,monarch,default,1
+title.domn,Domn,多姆,monarch,default,1
+title.mahdi,Mahdi,马赫迪,monarch,default,1
+title.khalifa,Khalifa,哈里发,monarch,default,1
+title.zuwa,Zuwa,祖瓦,monarch,default,1
+title.brak,Brak,布拉克,monarch,default,1
+title.damel_teigne,Damel-Teigne,达梅尔-泰尼耶,monarch,default,1
+title.amir_al_muminin,Amir al-Mu'minin,信士的长官,monarch,default,1
+title.kalonga,Kalonga,卡隆加,monarch,default,1
+title.captain_regent,Captain Regent,执政官,head_of_state,rule,2659
+title.president,President,总统,head_of_state,rule,2476
+title.prime_minister,Prime Minister,总理,head_of_government,rule,1584
+title.prime_minister_shouxiang,Prime Minister,首相,head_of_government,rule,976
+title.consul,Consul,执政官,head_of_state,rule,868
+title.doge,Doge,总督,head_of_state,rule,304
+title.archon,Archon,执政官,head_of_state,rule,231
+title.governor_general,Governor-General,总督,governor_general,rule,211
+title.president_lianbangzhuxi,President,联邦主席,head_of_state,rule,178
+title.president_of_the_council,President of the Council,部长会议主席,head_of_government,rule,109
+title.dictator,Dictator,独裁官,head_of_state,rule,86
+title.prime_minister_neigezonglidachen,Prime Minister,内阁总理大臣,head_of_government,rule,81
+title.judge,Judge,裁判官,head_of_state,rule,63
+title.druk_desi,Druk Desi,竹第悉,effective_ruler,rule,60
+title.chancellor,Chancellor,总理,head_of_government,rule,46
+title.chairman_of_the_presidency,Chairman of the Presidency,主席团主席,head_of_state,rule,44
+title.regent_shezheng,Regent,摄政,regent,rule,42
+title.shogun,Shōgun,征夷大将军,effective_ruler,rule,40
+title.lawspeaker,Lawspeaker,法律宣讲者,head_of_state,rule,37
+title.president_guojiazhuxi,President,国家主席,head_of_state,rule,35
+title.governor_general_zongdu,Governor General,总督,governor_general,rule,32
+title.taoiseach,Taoiseach,总理,head_of_government,rule,24
+title.supreme_director_zuigaotongling,Supreme Director,最高统领,head_of_state,rule,24
+title.kampaku,Kampaku,关白,regent,rule,23
+title.desi,Desi,第悉,effective_ruler,rule,20
+title.grand_pensionary,Grand Pensionary,大议长,head_of_government,rule,20
+title.sessho,Sesshō,摄政,regent,rule,19
+title.shikken,Shikken,执权,regent,rule,16
+title.chairman_of_the_council_of_ministers,Chairman of the Council of Ministers,部长会议主席,head_of_government,rule,16
+title.state_elder,State Elder,国务长官,head_of_state,rule,16
+title.princes_representative,Prince's Representative,亲王代表,head_of_government,rule,16
+title.provisional_president,Provisional President,临时总统,head_of_state,rule,15
+title.chairman_of_the_presidium_of_the_supreme_soviet,Chairman of the Presidium of the Supreme Soviet,最高苏维埃主席团主席,head_of_state,rule,14
+title.head_of_state,Head of State,国家元首,head_of_state,rule,14
+title.president_of_the_ministry,President of the Ministry,部长会议主席,head_of_government,rule,14
+title.president_of_the_presidency,President of the Presidency,联邦主席团主席,head_of_state,rule,14
+title.president_zongzhang,President,总长,head_of_state,rule,13
+title.director,Director,督政官,head_of_state,rule,13
+title.president_of_the_national_council_of_government,President of the National Council of Government,国务委员会主席,head_of_state,rule,13
+title.first_secretary_of_mpp,First Secretary of MPP,蒙古人民革命党第一书记,party_leader,rule,12
+title.military_dictator,Military Dictator,武臣,effective_ruler,rule,11
+title.chairman_of_the_council_of_ministers_dachenhuiyizhuxi,Chairman of the Council of Ministers,大臣会议主席,head_of_government,rule,11
+title.president_of_the_presidency_of_lcy,President of the Presidency of LCY,南共盟中央主席团主席,party_leader,rule,11
+title.interim_president,Interim President,临时总统,head_of_state,rule,11
+title.governor,Governor,总督,head_of_state,rule,10
+title.president_of_the_directory,President of the Directory,执政长,head_of_state,rule,10
+title.governor_shengzhang,Governor,省长,head_of_state,rule,10
+title.president_dazongtong,President,大总统,head_of_state,rule,9
+title.secretary_general_of_the_general_peoples_congress,Secretary-General of the General People's Congress,全国人民代表大会总书记,head_of_state,rule,9
+title.state_president,State President,国家总统,head_of_state,rule,9
+title.governor_of_buenos_aires,Governor of Buenos Aires,布宜诺斯艾利斯省长,head_of_state,rule,9
+title.general_secretary_of_cpv,General Secretary of CPV,越共中央总书记,party_leader,rule,8
+title.chairman_of_the_revolutionary_council,Chairman of the Revolutionary Council,革命委员会主席,head_of_state,rule,8
+title.first_secretary_of_pzpr,First Secretary of PZPR,波兰统一工人党第一书记,party_leader,rule,8
+title.chairman_of_the_state_council,Chairman of the State Council,国务委员会主席,head_of_state,rule,8
+title.regent,Regent,摄政王,regent,rule,7
+title.queen_regent,Queen Regent,摄政女王,regent,rule,7
+title.chairman_of_the_supreme_council,Chairman of the Supreme Council,最高委员会主席,head_of_state,rule,7
+title.head_of_the_federal_military_government,Head of the Federal Military Government,联邦军政府元首,head_of_state,rule,7
+title.member_of_the_executive_triumvirate,Member of the Executive Triumvirate,三头执政团成员,head_of_state,rule,7
+title.chairman_of_the_presidium_of_the_state_little_khural,Chairman of the Presidium of the State Little Khural,国家小呼拉尔主席团主席,head_of_state,rule,6
+title.chairman_of_the_presidium_of_the_peoples_great_khural,Chairman of the Presidium of the People's Great Khural,大人民呼拉尔主席团主席,head_of_state,rule,6
+title.chairman_of_parliament,Chairman of Parliament,议会主席,head_of_state,rule,6
+title.general_secretary_of_cpsu,General Secretary of CPSU,苏共中央总书记,party_leader,rule,6
+title.chairman_of_the_council_of_state,Chairman of the Council of State,国务委员会主席,head_of_state,rule,6
+title.chairman_of_the_presidential_council_zhuxituanzhuxi,Chairman of the Presidential Council,主席团主席,head_of_state,rule,6
+title.stadtholder,Stadtholder,执政官,head_of_state,rule,6
+title.president_of_frelimo,President of FRELIMO,莫桑比克解放阵线主席,party_leader,rule,6
+title.president_of_the_council_of_state,President of the Council of State,国务委员会主席,head_of_state,rule,6
+title.triumvir,Triumvir,三头执政官,head_of_state,rule,6
+title.supreme_director,Supreme Director,最高执政官,head_of_state,rule,6
+title.chief_of_state,Chief of State,国家元首,head_of_state,rule,5
+title.general_secretary_of_lprp,General Secretary of LPRP,人民革命党总书记,party_leader,rule,5
+title.chairman_of_the_standing_committee_of_spa,Chairman of the Standing Committee of SPA,最高人民会议委员长,head_of_state,rule,5
+title.general_secretary_of_ccp,General Secretary of CCP,中共中央总书记,party_leader,rule,5
+title.state_minister,State Minister,国务部长,head_of_government,rule,5
+title.consul_of_the_republic,Consul of the Republic,共和国领事,head_of_state,rule,5
+title.kuhina_nui,Kuhina Nui,库希纳·努伊（首相）,head_of_government,rule,4
+title.o_le_ao_o_le_malo,O le Ao o le Malo,国家元首,head_of_state,rule,4
+title.chairman_of_the_nationalist_government,Chairman of the Nationalist Government,国民政府主席,head_of_state,rule,4
+title.general_secretary_of_pdpa,General Secretary of PDPA,阿富汗人民民主党总书记,party_leader,rule,4
+title.chairman_of_the_supreme_soviet,Chairman of the Supreme Soviet,最高苏维埃主席,head_of_state,rule,4
+title.supreme_leader,Supreme Leader,最高领袖,head_of_state,rule,4
+title.general_secretary_of_ysp,General Secretary of YSP,也门社会党总书记,party_leader,rule,4
+title.chairman_of_the_presidential_council,Chairman of the Presidential Council,总统委员会主席,head_of_state,rule,4
+title.chairman_of_the_central_executive_committee,Chairman of the Central Executive Committee,中央执行委员会主席,head_of_state,rule,4
+title.general_secretary_of_mdp,General Secretary of MDP,匈牙利劳动人民党总书记,party_leader,rule,4
+title.general_secretary_of_bcp,General Secretary of BCP,保共中央总书记,party_leader,rule,4
+title.chairman_of_the_presidium_of_the_national_assembly,Chairman of the Presidium of the National Assembly,全国议会主席团主席,head_of_state,rule,4
+title.general_secretary_of_pcr,General Secretary of PCR,罗共中央总书记,party_leader,rule,4
+title.chairman_of_the_transitional_presidential_council,Chairman of the Transitional Presidential Council,过渡总统委员会主席,head_of_state,rule,4
+title.chairman_of_the_bspp,Chairman of the BSPP,社会主义纲领党主席,party_leader,rule,3
+title.chairman_of_mpp,Chairman of MPP,蒙古人民革命党主席,party_leader,rule,3
+title.general_secretary_of_wpk,General Secretary of WPK,朝鲜劳动党中央总书记,party_leader,rule,3
+title.chairman_of_npcsc,Chairman of NPCSC,全国人大常委会委员长,head_of_state,rule,3
+title.chairman_of_the_presidium_of_the_supreme_peoples_council,Chairman of the Presidium of the Supreme People's Council,最高人民委员会主席团主席,head_of_state,rule,3
+title.landammann,Landammann,首席行政长官,head_of_state,rule,3
+title.chairman_of_the_presidium_of_the_peoples_assembly,Chairman of the Presidium of the People's Assembly,人民议会主席团主席,head_of_state,rule,3
+title.president_of_the_presidium_of_the_great_national_assembly,President of the Presidium of the Great National Assembly,大国民议会主席团主席,head_of_state,rule,3
+title.president_of_the_state_council,President of the State Council,国务委员会主席,head_of_state,rule,3
+title.chairman_of_council_of_state,Chairman of Council of State,国务委员会主席,head_of_state,rule,3
+title.supreme_chief,Supreme Chief,最高领袖,head_of_state,rule,3
+title.president_of_government_junta_zhengfujunzhengfuzhuxi,President of Government Junta,政府军政府主席,head_of_state,rule,3
+title.president_of_the_central_governing_junta,President of the Central Governing Junta,中央执政委员会主席,head_of_state,rule,3
+title.member_of_the_triumvirate,Member of the Triumvirate,三头执政团成员,head_of_state,rule,3
+title.military_leader,Military Leader,军事领导人,head_of_state,rule,3
+title.governor_zhouzhang,Governor,州长,head_of_state,rule,3
+title.chairman_of_the_mrc,Chairman of the MRC,军人革命委员会主席,head_of_state,rule,2
+title.president_of_the_state_presidium,President of the State Presidium,国家主席团主席,head_of_state,rule,2
+title.chairman_of_slorc,Chairman of SLORC,国家恢复法律和秩序委员会主席,head_of_state,rule,2
+title.daijo_daijin,Daijō-daijin,太政大臣,head_of_government,rule,2
+title.kalon_tripa,Kalön Tripa,噶伦赤巴,head_of_government,rule,2
+title.general_secretary_of_mpp,General Secretary of MPP,蒙古人民革命党总书记,party_leader,rule,2
+title.chairman_of_the_presidium_of_the_state_great_khural,Chairman of the Presidium of the State Great Khural,国家大呼拉尔主席团主席,head_of_state,rule,2
+title.chairman_of_the_national_defense_commission,Chairman of the National Defense Commission,国防委员会委员长,head_of_state,rule,2
+title.chairman_of_ccp,Chairman of CCP,中共中央主席,party_leader,rule,2
+title.chief_minister,Chief Minister,首席大臣,head_of_government,rule,2
+title.chairman_of_the_state_nyhas,Chairman of the State Nyhas,国家议会主席,head_of_state,rule,2
+title.regional_secretary_of_irb,Regional Secretary of IRB,伊拉克复兴党地区书记,party_leader,rule,2
+title.grand_bailiff,Grand Bailiff,大执行官,head_of_state,rule,2
+title.chairman_of_ksc,Chairman of KSČ,捷共主席,party_leader,rule,2
+title.first_secretary_of_ksc,First Secretary of KSČ,捷共第一书记,party_leader,rule,2
+title.general_secretary_of_ksc,General Secretary of KSČ,捷共总书记,party_leader,rule,2
+title.general_secretary_of_sed,General Secretary of SED,德国统一社会党总书记,party_leader,rule,2
+title.president_of_the_executive_council,President of the Executive Council,执行委员会主席,head_of_government,rule,2
+title.governor_zhizhengguan,Governor,执政官,head_of_state,rule,2
+title.first_secretary_of_ppsh,First Secretary of PPSh,劳动党第一书记,party_leader,rule,2
+title.chairman_of_the_transitional_military_council,Chairman of the Transitional Military Council,过渡军事委员会主席,head_of_state,rule,2
+title.president_of_the_general_national_congress,President of the General National Congress,全国代表大会主席,head_of_state,rule,2
+title.president_of_the_mpla,President of the MPLA,安人运主席,party_leader,rule,2
+title.dictator_ducaizhe,Dictator,独裁者,head_of_state,rule,2
+title.president_of_government_junta,President of Government Junta,执政委员会主席,head_of_state,rule,2
+title.president_for_life,President for Life,终身总统,head_of_state,rule,2
+title.president_of_the_triumvirate,President of the Triumvirate,三头执政主席,head_of_state,rule,2
+title.co_president,Co-President,联合总统,head_of_state,rule,2
+title.chairman_of_wpv,Chairman of WPV,越南劳动党主席,party_leader,rule,1
+title.first_secretary_of_wpv,First Secretary of WPV,越南劳动党第一书记,party_leader,rule,1
+title.chairman_of_the_nlc,Chairman of the NLC,国家领导委员会主席,head_of_state,rule,1
+title.chairman_of_the_rcub,Chairman of the RCUB,联邦革命委员会主席,head_of_state,rule,1
+title.chairman_secretary_of_lprp,Chairman Secretary of LPRP,人民革命党主席,party_leader,rule,1
+title.general_secretary_of_cpk,General Secretary of CPK,柬共中央总书记,party_leader,rule,1
+title.chairman_of_spdc,Chairman of SPDC,国家和平与发展委员会主席,head_of_state,rule,1
+title.state_counsellor,State Counsellor,国务资政,head_of_government,rule,1
+title.naidaijin,Naidaijin,内大臣,head_of_government,rule,1
+title.sessei,Sessei,摄政,regent,rule,1
+title.head_of_oda_clan,Head of Oda Clan,织田家当主,effective_ruler,rule,1
+title.head_of_tokugawa_clan,Head of Tokugawa Clan,德川家当主,effective_ruler,rule,1
+title.president_of_the_provisional_government,President of the Provisional Government,临时大总统,head_of_state,rule,1
+title.chief_executive,Chief Executive,临时执政,head_of_state,rule,1
+title.generalissimo,Generalissimo,陆海军大元帅,head_of_state,rule,1
+title.director_general_of_the_kuomintang,Director-General of the Kuomintang,中国国民党总裁,party_leader,rule,1
+title.chairman_of_the_military_affairs_commission,Chairman of the Military Affairs Commission,军事委员会委员长,head_of_state,rule,1
+title.chairman_of_the_state_great_khural,Chairman of the State Great Khural,国家大呼拉尔主席,head_of_state,rule,1
+title.general_secretary_of_cpk_chaoxiangongchandangzhongyangzongshuji,General Secretary of CPK,朝鲜共产党中央总书记,party_leader,rule,1
+title.president_of_the_state_affairs_commission,President of the State Affairs Commission,国务委员长,head_of_state,rule,1
+title.chairman_of_cmc,Chairman of CMC,中央军委主席,effective_ruler,rule,1
+title.chief_administrative_officer,Chief Administrative Officer,行政总监,head_of_government,rule,1
+title.empress_regent,Empress Regent,摄政皇后,regent,rule,1
+title.empress_regent_shezhenghuangtaihou,Empress Regent,摄政皇太后,regent,rule,1
+title.chairman_of_the_national_council,Chairman of the National Council,国民议会主席,head_of_state,rule,1
+title.president_of_parliament,President of Parliament,议会主席,head_of_state,rule,1
+title.chairman_of_the_national_unity_committee,Chairman of the National Unity Committee,民族团结委员会主席,head_of_state,rule,1
+title.chairman_of_the_national_security_council,Chairman of the National Security Council,国家安全委员会主席,head_of_state,rule,1
+title.assistant_regional_secretary_of_srb,Assistant Regional Secretary of SRB,叙利亚复兴党地区副书记,party_leader,rule,1
+title.chairman_of_the_presidential_leadership_council,Chairman of the Presidential Leadership Council,总统领导委员会主席,head_of_state,rule,1
+title.chairman_of_the_council_of_peoples_commissars,Chairman of the Council of People's Commissars,人民委员会主席,head_of_government,rule,1
+title.premier,Premier,总理,head_of_government,rule,1
+title.chairman_of_the_council_of_peoples_deputies,Chairman of the Council of People's Deputies,人民代表委员会主席,head_of_state,rule,1
+title.leader_of_the_nation,Leader of the Nation,国家领袖,head_of_state,rule,1
+title.fuhrer,Führer,元首,head_of_state,rule,1
+title.chairman_of_sed,Chairman of SED,德国统一社会党主席,party_leader,rule,1
+title.first_secretary_of_sed,First Secretary of SED,德国统一社会党第一书记,party_leader,rule,1
+title.president_of_mdp,President of MDP,匈牙利劳动人民党主席,party_leader,rule,1
+title.first_consul,First Consul,第一执政,head_of_state,rule,1
+title.president_of_the_provisional_government_linshizhengfuzongtong,President of the Provisional Government,临时政府总统,head_of_state,rule,1
+title.president_of_the_executive_commission,President of the Executive Commission,行政委员会主席,head_of_state,rule,1
+title.chief_of_the_executive_power,Chief of the Executive Power,行政权力首长,head_of_state,rule,1
+title.president_of_the_government_of_national_defense,President of the Government of National Defense,国防政府主席,head_of_state,rule,1
+title.gonfaloniere_for_life,Gonfaloniere for Life,终身旗手,head_of_state,rule,1
+title.doge_duzhu,Doge,督主,head_of_state,rule,1
+title.vice_president,Vice-President,副总统,head_of_government,rule,1
+title.viceroy,Viceroy,副王,head_of_government,rule,1
+title.caudillo,Caudillo,考迪罗,head_of_state,rule,1
+title.general_secretary_of_lcy,General Secretary of LCY,南共盟中央总书记,party_leader,rule,1
+title.president_of_the_presidency_of_the_national_assembly,President of the Presidency of the National Assembly,国家议会主席团主席,head_of_state,rule,1
+title.chairman_of_the_provisional_presidency,Chairman of the Provisional Presidency,临时主席团主席,head_of_state,rule,1
+title.president_of_the_provisional_presidium,President of the Provisional Presidium,临时主席团主席,head_of_state,rule,1
+title.president_of_the_presidency_zhuxituanzhuxi,President of the Presidency,主席团主席,head_of_state,rule,1
+title.president_of_peoples_national_assembly,President of People's National Assembly,临时政府首任总统,head_of_state,rule,1
+title.chairman_of_the_high_council_of_state,Chairman of the High Council of State,最高国务委员会主席,head_of_state,rule,1
+title.chairman_of_the_rcc,Chairman of the RCC,革命指挥委员会主席,head_of_state,rule,1
+title.chairman_of_the_nrcc,Chairman of the NRCC,全国革命指挥委员会主席,head_of_state,rule,1
+title.brotherly_leader_and_guide_of_the_revolution,Brotherly Leader and Guide of the Revolution,兄弟领袖与革命导师,head_of_state,rule,1
+title.chairman_of_the_rccns,Chairman of the RCCNS,救国革命指挥委员会主席,head_of_state,rule,1
+title.chairman_of_the_transitional_sovereignty_council,Chairman of the Transitional Sovereignty Council,过渡主权委员会主席,head_of_state,rule,1
+title.chairman_of_the_national_transitional_council,Chairman of the National Transitional Council,全国过渡委员会主席,head_of_state,rule,1
+title.president_of_the_house_of_representatives,President of the House of Representatives,众议院议长,head_of_state,rule,1
+title.chairman_of_peoples_redemption_council,Chairman of People's Redemption Council,人民救赎委员会主席,head_of_state,rule,1
+title.president_of_interim_government_of_national_unity,President of Interim Government of National Unity,全国团结过渡政府总统,head_of_state,rule,1
+title.chairman_of_transitional_government,Chairman of Transitional Government,全国过渡政府主席,head_of_state,rule,1
+title.chairman_of_ncdd,Chairman of NCDD,全国民主和发展委员会主席,head_of_state,rule,1
+title.chairman_of_ncps,Chairman of NCPS,全国救国委员会主席,head_of_state,rule,1
+title.president_of_the_council_of_ministers,President of the Council of Ministers,部长会议主席,head_of_government,rule,1
+title.chairman_of_the_supreme_revolutionary_council,Chairman of the Supreme Revolutionary Council,最高革命委员会主席,head_of_state,rule,1
+title.general_secretary_of_srsp,General Secretary of SRSP,革命社会主义党总书记,party_leader,rule,1
+title.general_secretary_of_wpe,General Secretary of WPE,工人党总书记,party_leader,rule,1
+title.officer_administering_the_government,Officer Administering the Government,署理政府长官,governor_general,rule,1
+title.president_of_the_superior_governing_junta,President of the Superior Governing Junta,最高执政委员会主席,head_of_state,rule,1
+title.supreme_dictator,Supreme Dictator,最高独裁者,head_of_state,rule,1
+title.perpetual_dictator,Perpetual Dictator,终身独裁者,head_of_state,rule,1
+title.president_of_the_provisional_junta,President of the Provisional Junta,临时政务委员会主席,head_of_state,rule,1
+title.general_commander_of_arms,General Commander of Arms,陆军总司令,head_of_state,rule,1
+title.secretary_of_the_congress,Secretary of the Congress,国会秘书长,head_of_state,rule,1
+title.president_of_the_congress,President of the Congress,国会主席,head_of_state,rule,1
+title.protector,Protector,护国主,head_of_state,rule,1
+title.president_of_the_supreme_governing_junta,President of the Supreme Governing Junta,最高执政委员会主席,head_of_state,rule,1
+title.provisional_director_of_the_confederation,Provisional Director of the Confederation,邦联临时执政,head_of_state,rule,1
+title.supreme_protector,Supreme Protector,最高保护者,head_of_state,rule,1
+title.provisional_chief_of_government,Provisional Chief of Government,政府临时首脑,head_of_government,rule,1
+title.supreme_chief_of_the_republic,Supreme Chief of the Republic,共和国最高首领,head_of_state,rule,1
+title.chairman_of_the_military_executive_committee,Chairman of the Military Executive Committee,军事执行委员会主席,head_of_state,rule,1
+title.chairman_of_the_government_junta,Chairman of the Government Junta,政府军政团主席,head_of_state,rule,1
+title.chairman_of_the_military_council,Chairman of the Military Council,军事委员会主席,head_of_state,rule,1
+title.president_of_the_national_council_of_government_guojiazhiliweiyuanhuizhuxi,President of the National Council of Government,国家治理委员会主席,head_of_state,rule,1
+title.protector_of_the_republic,Protector of the Republic,共和国保护人,head_of_state,rule,1
+title.supreme_chief_zuigaoshouling,Supreme Chief,最高首领,head_of_state,rule,1
+title.president_of_pgnm,President of PGNM,国民运动临时政府主席,head_of_state,rule,1
+title.provisional_governor,Provisional Governor,临时总督,head_of_state,rule,1
+title.king_regent,King Regent,摄政国王,regent,rule,1
+title.president_of_the_regency,President of the Regency,摄政委员会主席,head_of_state,rule,1
+title.coordinator_of_the_junta_of_national_reconstruction,Coordinator of the Junta of National Reconstruction,全国重建委员会协调人,head_of_state,rule,1
+title.commander_in_chief_of_the_continental_army,Commander-in-Chief of the Continental Army,大陆军总司令,head_of_state,rule,1

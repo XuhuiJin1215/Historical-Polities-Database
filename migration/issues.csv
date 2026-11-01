@@ -1,0 +1,99 @@
+type,id,detail
+code_fixed,P00337,Code GER -> DEU
+code_fixed,P00348,Code GER -> DEU
+duration_grade_corrected,P00132,Mahameghavahana Dynasty / 摩诃牟伽伐哈那王朝: S -> A (499 years without year 0)
+phase_boundary_fixed,P00215-03,"943–1282 -> 943–1137 (temporary, recheck)"
+phase_boundary_fixed,P00215-04,"1138–1216 -> 1138–1282 (temporary, recheck)"
+phase_boundary_fixed,P01046-02,"1930–1945 -> 1931–1945 (temporary, recheck)"
+phase_boundary_fixed,P01062-03,"1937–1945 -> 1938–1945 (temporary, recheck)"
+phase_boundary_fixed,P01091-03,"1961–1966 -> 1962–1966 (temporary, recheck)"
+phase_boundary_fixed,P01113-02,"1955–1979 -> 1956–1979 (temporary, recheck)"
+phase_boundary_fixed,P01214-02,"1994–2026 -> 1995–2026 (temporary, recheck)"
+place_homonym,place.nanjing;place.nanjing_tumen,capital name Nanjing / 南京 used for different present-day sites: Nanjing | Tumen (kept as separate places; confirm)
+place_homonym,place.rabat;place.rabat_victoria,capital name Rabat / 拉巴特 used for different present-day sites: Rabat | Victoria (kept as separate places; confirm)
+relinked_ruler,P00280,18 rulers.csv rows: 'Khazar Khaganate / 可萨汗国' -> 'Khazar Khanate / 可萨汗国'
+relinked_ruler,P00353,38 rulers.csv rows: 'Kingdom of Shirvan / 希尔万沙王国' -> 'Kingdom of Shirvan / 希尔万沙王朝'
+relinked_ruler,P00679,59 rulers.csv rows: 'Kingdom / 刚果王国' -> 'Kingdom of Kongo / 刚果王国'
+relinked_ruler,P00852,4 rulers.csv rows: 'Electorate of Brunswick-Lüneburg / 不伦瑞克-吕讷堡选侯国' -> 'Electorate of Brunswick-Lunenburg / 不伦瑞克-吕讷堡选侯国'
+relinked_ruler,P01326,1 rulers.csv rows: '' -> 'Republic of Bosnia and Herzegovina / 波斯尼亚和黑塞哥维那共和国'
+ruler_end_2026_kept,R017284,"Gabriel Boric (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R017920,"Dick Schoof (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R018092,"Iris Xiomara Castro (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R018160,"José Jerí (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R018914,"Mary Simon (Governor General): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R019705,"Marcelo Rebelo de Sousa (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R021213,"Rodrigo Chaves Robles (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022105,"Muhammad Yunus (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022556,"Ali Khamenei (Supreme Leader): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022609,"Susan Dougan (Governor-General): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022774,"Viktor Orbán (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022841,"Rumen Radev (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022847,"Rosen Zhelyazkov (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R022908,"Salem Saleh bin Braik (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023151,"Robert Golob (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023363,"Željko Komšić (Chairman of the Presidency): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023369,"Nicolás Maduro (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023410,"Abdul Latif Rashid (President): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023411,"Mohammed Shia al-Sudani (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023453,"Sushila Karki (Prime Minister): a later holder exists, so 2026 kept as a real end"
+ruler_end_2026_kept,R023466,"Vjosa Osmani (President): a later holder exists, so 2026 kept as a real end"
+ruler_name_parenthetical,,"1188 ruler names contain bracketed text (e.g. 姬发（周武王）, regnal or temple names); kept unchanged for Stage 2"
+ruler_out_of_span,R005178,Sri Deva 1028–1028 wholly outside Srivijaya / 三佛齐 671–1025
+ruler_out_of_span,R013944,Mahmud Shah 1513–1528 wholly outside Malacca Sultanate / 马六甲苏丹国 1402–1511
+ruler_out_of_span,R014645,Thakin Min 1550–1552 wholly outside Prome Kingdom / 卑谬王国 1482–1542
+ruler_out_of_span,R019711,Danba Chagdarjav 1921–1921 wholly outside Bogd Khanate / 博克多汗国 1911–1919
+ruler_out_of_span,R019712,Dogsomyn Bodoo 1921–1922 wholly outside Bogd Khanate / 博克多汗国 1911–1919
+ruler_out_of_span,R019713,Bogd Khan 1921–1924 wholly outside Bogd Khanate / 博克多汗国 1911–1919
+ruler_out_of_span,R019714,Sodnomyn Damdinbazar 1922–1923 wholly outside Bogd Khanate / 博克多汗国 1911–1919
+ruler_out_of_span,R019715,Balingiin Tserendorj 1923–1924 wholly outside Bogd Khanate / 博克多汗国 1911–1919
+ruler_partly_out_of_span,R000658,Philokles -322–-321 vs Athens / 雅典（城邦） -1068–-322
+ruler_partly_out_of_span,R002354,Gaius Julius Caesar Augustus -27–-26 vs Roman Republic / 罗马共和国 -509–-27
+ruler_partly_out_of_span,R002355,Marcus Vipsanius Agrippa -27–-26 vs Roman Republic / 罗马共和国 -509–-27
+ruler_partly_out_of_span,R002493,Mahinda V 1001–1029 vs Kingdom of Anuradhapura / 阿努拉德普勒王国 -437–1017
+ruler_partly_out_of_span,R002499,Qian -408–-400 vs Han / 韩（诸侯国） -403–-230
+ruler_partly_out_of_span,R002510,Ji -408–-400 vs Zhao / 赵（诸侯国） -403–-228
+ruler_partly_out_of_span,R002520,Si -445–-396 vs Wei / 魏（诸侯国） -403–-225
+ruler_partly_out_of_span,R002780,Ying Zheng -247–-210 vs Qin / 秦 -221–-207
+ruler_partly_out_of_span,R002782,Ying Ziying -207–-206 vs Qin / 秦 -221–-207
+ruler_partly_out_of_span,R003436,Sima Yan 265–290 vs Western Jin / 西晋 266–316
+ruler_partly_out_of_span,R003529,Li Xiong 303–334 vs Cheng-Han / 成汉（十六国） 304–347
+ruler_partly_out_of_span,R004538,Lý Phật Tử 571–603 vs Early Lý Dynasty / 前李朝（万春） 544–602
+ruler_partly_out_of_span,R005548,Emperor Go-Shirakawa 1158–1192 vs Japan (Nara-Heian Period) / 日本（奈良-平安时代） 710–1185
+ruler_partly_out_of_span,R005592,Sanjaya 716–746 vs Mataram Kingdom / 马打兰王国 732–1016
+ruler_partly_out_of_span,R006292,Pyinbya 846–886 vs Pagan Kingdom / 蒲甘王国 849–1287
+ruler_partly_out_of_span,R006719,Kung Ye 901–928 vs T'aebong / 后高句丽 901–918
+ruler_partly_out_of_span,R007916,Weiming Yuanhao 1032–1048 vs Western Xia / 西夏 1038–1227
+ruler_partly_out_of_span,R008058,Kalinga Magha 1215–1236 vs Kingdom of Polonnaruwa / 波隆纳鲁沃王国 1055–1232
+ruler_partly_out_of_span,R009498,Chagatai Khan 1224–1241 vs Chagatai Khanate / 察合台汗国 1226–1346
+ruler_partly_out_of_span,R009613,Man Singh 1803–1843 vs Kingdom of Marwar / 马瓦里王国 1226–1818
+ruler_partly_out_of_span,R012975,Mangrai 1292–1311 vs Lan Na Kingdom / 兰纳王国 1296–1558
+ruler_partly_out_of_span,R013095,Thihathu 1310–1325 vs Pinya Kingdom / 彬牙王国 1313–1365
+ruler_partly_out_of_span,R013551,Hashim Jalilul Alam Aqamaddin 1885–1906 vs Sultanate of Brunei / 文莱苏丹国 1368–1888
+ruler_partly_out_of_span,R013697,Unaširi 1380–1393 vs Qamil / 哈密国 1389–1513
+ruler_partly_out_of_span,R013821,Muzaffar Shah I 1391–1403 vs Gujarat Sultanate / 古吉拉特苏丹国 1394–1573
+ruler_partly_out_of_span,R013943,Ahmad Shah 1511–1513 vs Malacca Sultanate / 马六甲苏丹国 1402–1511
+ruler_partly_out_of_span,R014497,Surat Singh 1787–1828 vs Bikaner State / 比卡内尔土邦 1465–1818
+ruler_partly_out_of_span,R014644,Thakin Yan 1542–1550 vs Prome Kingdom / 卑谬王国 1482–1542
+ruler_partly_out_of_span,R014828,Matanda (Ache) 1521–1572 vs Rajahnate of Maynila / 梅尼拉 1500–1571
+ruler_partly_out_of_span,R014829,Sulayman III 1571–1575 vs Rajahnate of Maynila / 梅尼拉 1500–1571
+ruler_partly_out_of_span,R015108,Ismail Shah 1511–1530 vs Pattani Sultanate / 北大年苏丹国 1516–1902
+ruler_partly_out_of_span,R015625,Maurice 1585–1625 vs Dutch Republic / 荷兰共和国 1588–1795
+ruler_partly_out_of_span,R015626,Johan van Oldenbarnevelt 1586–1619 vs Dutch Republic / 荷兰共和国 1588–1795
+ruler_partly_out_of_span,R016300,Ghazi ad-Din Haydar 1814–1818 vs Oudh State / 奥德土邦 1722–1816
+ruler_partly_out_of_span,R016449,Prithvi Narayan Shah 1743–1775 vs Kingdom of Nepal / 尼泊尔王国 1768–2008
+ruler_partly_out_of_span,R018254,James Brooke 1841–1868 vs Raj of Sarawak / 砂拉越王国 1842–1888
+ruler_partly_out_of_span,R019710,Badamdorj 1919–1920 vs Bogd Khanate / 博克多汗国 1911–1919
+ruler_partly_out_of_span,R020720,René Coty 1954–1959 vs French Republic (Fourth Republic) / 法兰西共和国（第四共和国） 1946–1958
+ruler_partly_out_of_span,R020725,Charles de Gaulle 1958–1959 vs French Republic (Fourth Republic) / 法兰西共和国（第四共和国） 1946–1958
+ruler_partly_out_of_span,R021443,Abubakar Tafawa Balewa 1960–1966 vs Federation of Nigeria / 尼日利亚联邦 1960–1963
+ruler_partly_out_of_span,R021758,Tunku Abdul Rahman 1957–1970 vs Malaysia / 马来西亚 1963–2026
+ruler_partly_out_of_span,R022325,Kaysone Phomvihane 1955–1991 vs Lao People's Democratic Republic / 老挝人民民主共和国 1975–2026
+ruler_partly_out_of_span,R022723,Amata Kabua 1979–1996 vs Republic of the Marshall Islands / 马绍尔群岛共和国 1986–2026
+vocab_merged,P00652,Language: 'Mazandrani' -> 'Mazanderani'
+vocab_merged,P00804,Ethnic Group: 'Polish' -> 'Pole'
+vocab_merged,P01123,Ethnic Group: 'Punjab' -> 'Punjabi'
+vocab_merged,P01150,Ethnic Group: 'Punjab' -> 'Punjabi'
+year0_fixed,P00115,phases.csv row 1691: end 0 -> -1
+year0_fixed,P00132,phases.csv row 1700: end 0 -> -1
+year0_fixed,P00134,phases.csv row 1703: end 0 -> -1
+year0_fixed,P00136,phases.csv row 1706: end 0 -> -1

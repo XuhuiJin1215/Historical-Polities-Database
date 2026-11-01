@@ -1,0 +1,56 @@
+field,value,en,zh,sort
+attribute,ethnic_group,Ethnic group,民族,1
+attribute,language,Language,语言,2
+attribute,religion,Religion / ideology,宗教 / 意识形态,3
+attribute,capital,Capital,首都,4
+attribute,government_type,Government type,政体,5
+attribute_role,ruling,Ruling,统治集团,6
+attribute_role,majority,Majority,多数民众,7
+attribute_role,official,Official,官方,8
+attribute_role,seat,Seat of government,政府驻地,9
+attribute_role,secondary,Secondary capital,陪都,10
+attribute_role,symbolic,Principal capital,象征性首都,11
+certainty,certain,Certain,确定,35
+certainty,probable,Probable,可能,36
+certainty,disputed,Disputed,有争议,37
+dimension,dur,Duration,存续时间,47
+dimension,area,Area,领土面积,48
+dimension,pop,Population,人口规模,49
+dimension,econ,Economy,经济,50
+dimension,mil,Military,军事,51
+dimension,cult,Culture,文化,52
+dimension,tech,Technology,科技,53
+dimension,gov,Governance,制度与治理,54
+dimension,soc,Social welfare,社会民生,55
+evidence_tier,A,Documented,文献记载,38
+evidence_tier,B,Tradition-attested,传世文献,39
+evidence_tier,C,Archaeologically inferred,考古推断,40
+gender,m,Male,男,44
+gender,f,Female,女,45
+gender,n,Neutral,中性,46
+name_type,official,Official name,正式名称,27
+name_type,conventional,Conventional name,通称,28
+name_type,historiographic,Historiographic name,史学名称,29
+name_type,alternative,Alternative name,别称,30
+precision,exact,Exact,确切,31
+precision,circa,Circa,约,32
+precision,decade,Decade,年代,33
+precision,century,Century,世纪,34
+rating_method,legacy,Legacy,旧版,41
+rating_method,manual,Manual,人工,42
+rating_method,ai_assisted,AI-assisted,AI 辅助,43
+relation_type,succeeded_by,Succeeded by,继承者,20
+relation_type,restoration_of,Restoration of,复辟自,21
+relation_type,split_from,Split from,分裂自,22
+relation_type,merged_into,Merged into,并入,23
+relation_type,vassal_of,Vassal of,藩属于,24
+relation_type,member_of,Member of,成员于,25
+relation_type,claims_succession_of,Claims succession of,自称继承,26
+ruler_role,monarch,Monarch,君主,12
+ruler_role,head_of_state,Head of state,国家元首,13
+ruler_role,head_of_government,Head of government,政府首脑,14
+ruler_role,party_leader,Party leader,党的领导人,15
+ruler_role,governor_general,Governor-General,总督,16
+ruler_role,regent,Regent,摄政,17
+ruler_role,rival_claimant,Rival claimant,对立君主,18
+ruler_role,effective_ruler,Effective leader,实际领导人,19

@@ -1,0 +1,25 @@
+id,en,zh,parent,note_en,note_zh,sort
+reg.australia,Australia,澳大利亚,,,,1
+reg.caribbean,Caribbean,加勒比,,,,2
+reg.central_africa,Central Africa,中非,,,,3
+reg.central_america,Central America,中美,,,,4
+reg.central_asia,Central Asia,中亚,,,,5
+reg.central_europe,Central Europe,中欧,,,,6
+reg.east_africa,East Africa,东非,,,,7
+reg.east_asia,East Asia,东亚,,,,8
+reg.east_europe,East Europe,东欧,,,,9
+reg.melanesia,Melanesia,美拉尼西亚,,,,10
+reg.micronesia,Micronesia,密克罗尼西亚,,,,11
+reg.north_africa,North Africa,北非,,,,12
+reg.north_america,North America,北美,,,,13
+reg.north_asia,North Asia,北亚,,,,14
+reg.north_europe,North Europe,北欧,,,,15
+reg.polynesia,Polynesia,波利尼西亚,,,,16
+reg.south_africa,South Africa,南非,,,,17
+reg.south_america,South America,南美,,,,18
+reg.south_asia,South Asia,南亚,,,,19
+reg.south_europe,South Europe,南欧,,,,20
+reg.southeast_asia,Southeast Asia,东南亚,,,,21
+reg.west_africa,West Africa,西非,,,,22
+reg.west_asia,West Asia,西亚,,,,23
+reg.west_europe,West Europe,西欧,,,,24

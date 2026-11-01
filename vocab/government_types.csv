@@ -1,0 +1,20 @@
+id,en,zh,parent,note_en,note_zh,roles,definition_en,definition_zh
+gov.confed.tribal,Tribal confederation / khaganate,部落联盟 / 汗国,,,,monarch,"Nomadic or tribal peoples united under a supreme ruler (Xiongnu, Göktürks)",游牧或部落民族在最高统治者之下联合（如匈奴、突厥）
+gov.military,Military regime,军政府,,,,head_of_state,Armed forces govern directly,由军队直接执政
+gov.mon.absolute,Absolute monarchy,君主专制,,,,monarch;regent;rival_claimant,Hereditary monarch with unchecked supreme authority,世袭君主掌握不受制约的最高权力
+gov.mon.constitutional,Constitutional monarchy,君主立宪制,,,,monarch;head_of_government,"Monarch bound by a constitution, with a separate head of government",君主受宪法约束，另设政府首脑
+gov.mon.dual,Dual rule (shogunate type),二元统治（幕府型）,,,,effective_ruler;monarch,A nominal sovereign alongside an effective military ruler (Kamakura shogunate),名义君主与掌握实权的军事统治者并存（如镰仓幕府）
+gov.mon.elective,Elective monarchy,选举君主制,,,,monarch,"Monarch chosen by a body of electors (HRE, Poland–Lithuania)",君主由选举团体选出（如神圣罗马帝国、波兰-立陶宛）
+gov.mon.feudal,Feudal monarchy,封建君主制,,,,monarch,Monarch whose authority runs through hereditary vassal lords,君主权力通过世袭封臣贵族层层行使
+gov.mon.realm,Commonwealth realm,英联邦王国,,,,monarch;governor_general;head_of_government,Shares the British monarch; represented locally by a Governor-General,与英国共奉同一君主，由总督在当地代表君主
+gov.party,One-party state,一党制国家,,,,party_leader;head_of_state;head_of_government,A single legal ruling party holds a monopoly on power,唯一合法的执政党垄断政权
+gov.party.communist,Communist state,共产主义国家,gov.party,,,party_leader;head_of_state;head_of_government,A one-party state ruled by a communist party,由共产党执政的一党制国家
+gov.provisional,Provisional government,临时政府,,,,head_of_state,Interim authority pending a constitutional settlement,宪政安排确定前的过渡性政权
+gov.rep.classical_democracy,Classical democracy,古典民主制,,,,head_of_state,Citizen assembly as the sovereign body (Athens),公民大会为最高权力机构（如雅典）
+gov.rep.directorial,Directorial republic,委员会制共和国,,,,head_of_state,A collective executive council (Switzerland),由集体行政委员会执政（如瑞士）
+gov.rep.oligarchic,Oligarchic republic,寡头共和制,,,,head_of_state,"Rule by elected magistrates drawn from a narrow elite (Roman Republic, Venice, Genoa)",由狭小精英阶层中选出的官员执政（如罗马共和国、威尼斯、热那亚）
+gov.rep.parliamentary,Parliamentary republic,议会共和制,,,,head_of_state;head_of_government,Head of government responsible to parliament; separate head of state,政府首脑对议会负责，另设国家元首
+gov.rep.presidential,Presidential republic,总统共和制,,,,head_of_state,President is both head of state and head of government,总统兼任国家元首和政府首脑
+gov.rep.semi_presidential,Semi-presidential republic,半总统共和制,,,,head_of_state,"Executive president with a constitutionally subordinate PM (France, Fifth Republic)",总统掌握行政权，总理在宪法上从属于总统（如法兰西第五共和国）
+gov.theo_republic,Theocratic republic,神权共和制,,,,head_of_state;head_of_government,A republic in which a religious leader holds supreme authority (Islamic Republic of Iran),宗教领袖掌握最高权力的共和国（如伊朗伊斯兰共和国）
+gov.theocracy,Theocracy,神权政体,,,,monarch;regent,"Supreme authority held by a religious office (Papal States, Ganden Phodrang)",最高权力由宗教职位掌握（如教皇国、甘丹颇章）
